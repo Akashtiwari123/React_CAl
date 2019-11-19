@@ -2,11 +2,18 @@
   font-family: sans-serif;
   text-align: center;
 }
-
+.he {
+  color: "maroon";
+  font-family: "Psychedelic";
+  font-style: "bold";
+}
 .in {
   height: 60px;
   width: 50px;
 }
 
-.cal {
+#screen {
+  height: 20px;
+  width: 50px;
+  background-color: "orange";
 }
